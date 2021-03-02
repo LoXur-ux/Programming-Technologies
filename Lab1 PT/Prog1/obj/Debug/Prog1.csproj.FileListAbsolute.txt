@@ -1,0 +1,22 @@
+D:\Lab1 Технологии программрования\Lab1\Prog1\bin\Debug\Prog1.exe.config
+D:\Lab1 Технологии программрования\Lab1\Prog1\bin\Debug\Prog1.exe
+D:\Lab1 Технологии программрования\Lab1\Prog1\bin\Debug\Prog1.pdb
+D:\Lab1 Технологии программрования\Lab1\Prog1\obj\Debug\Prog1.csprojResolveAssemblyReference.cache
+D:\Lab1 Технологии программрования\Lab1\Prog1\obj\Debug\Prog1.Form1.resources
+D:\Lab1 Технологии программрования\Lab1\Prog1\obj\Debug\Prog1.Properties.Resources.resources
+D:\Lab1 Технологии программрования\Lab1\Prog1\obj\Debug\Prog1.csproj.GenerateResource.Cache
+D:\Lab1 Технологии программрования\Lab1\Prog1\obj\Debug\Prog1.exe
+D:\Lab1 Технологии программрования\Lab1\Prog1\obj\Debug\Prog1.pdb
+C:\Users\student\Desktop\lab1\Prog1\bin\Debug\Prog1.exe.config
+C:\Users\student\Desktop\lab1\Prog1\obj\Debug\Prog1.exe
+C:\Users\student\Desktop\lab1\Prog1\obj\Debug\Prog1.pdb
+E:\Project\C#\Lab1 PT\Prog1\bin\Debug\Prog1.exe.config
+E:\Project\C#\Lab1 PT\Prog1\bin\Debug\Prog1.exe
+E:\Project\C#\Lab1 PT\Prog1\bin\Debug\Prog1.pdb
+E:\Project\C#\Lab1 PT\Prog1\obj\Debug\Prog1.csprojAssemblyReference.cache
+E:\Project\C#\Lab1 PT\Prog1\obj\Debug\Prog1.Form1.resources
+E:\Project\C#\Lab1 PT\Prog1\obj\Debug\Prog1.Properties.Resources.resources
+E:\Project\C#\Lab1 PT\Prog1\obj\Debug\Prog1.csproj.GenerateResource.cache
+E:\Project\C#\Lab1 PT\Prog1\obj\Debug\Prog1.csproj.CoreCompileInputs.cache
+E:\Project\C#\Lab1 PT\Prog1\obj\Debug\Prog1.exe
+E:\Project\C#\Lab1 PT\Prog1\obj\Debug\Prog1.pdb

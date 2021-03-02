@@ -1,0 +1,15 @@
+D:\Project\C#\HomeWork\Practic (Random)\bin\Debug\Practic.exe.config
+D:\Project\C#\HomeWork\Practic (Random)\bin\Debug\Practic.exe
+D:\Project\C#\HomeWork\Practic (Random)\bin\Debug\Practic.pdb
+D:\Project\C#\HomeWork\Practic (Random)\bin\Debug\OxyPlot.dll
+D:\Project\C#\HomeWork\Practic (Random)\bin\Debug\OxyPlot.WindowsForms.dll
+D:\Project\C#\HomeWork\Practic (Random)\bin\Debug\OxyPlot.xml
+D:\Project\C#\HomeWork\Practic (Random)\bin\Debug\OxyPlot.WindowsForms.xml
+D:\Project\C#\HomeWork\Practic (Random)\obj\Debug\Practic(Random).csprojAssemblyReference.cache
+D:\Project\C#\HomeWork\Practic (Random)\obj\Debug\Practic.Form1.resources
+D:\Project\C#\HomeWork\Practic (Random)\obj\Debug\Practic.Properties.Resources.resources
+D:\Project\C#\HomeWork\Practic (Random)\obj\Debug\Practic(Random).csproj.GenerateResource.cache
+D:\Project\C#\HomeWork\Practic (Random)\obj\Debug\Practic(Random).csproj.CoreCompileInputs.cache
+D:\Project\C#\HomeWork\Practic (Random)\obj\Debug\Practic(Random).csproj.CopyComplete
+D:\Project\C#\HomeWork\Practic (Random)\obj\Debug\Practic.exe
+D:\Project\C#\HomeWork\Practic (Random)\obj\Debug\Practic.pdb

@@ -1,0 +1,5 @@
+C:\Users\danma\source\repos\MyLibriary\Line\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\danma\source\repos\MyLibriary\Line\bin\Debug\Line.dll
+C:\Users\danma\source\repos\MyLibriary\Line\bin\Debug\Line.pdb
+C:\Users\danma\source\repos\MyLibriary\Line\obj\Debug\Line.dll
+C:\Users\danma\source\repos\MyLibriary\Line\obj\Debug\Line.pdb

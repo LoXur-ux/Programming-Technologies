@@ -1,0 +1,10 @@
+D:\Project\C#\Game v1\MyIntelligence\obj\Debug\MyIntelligence.csprojAssemblyReference.cache
+D:\Project\C#\Game v1\MyIntelligence\obj\Debug\MyIntelligence.csproj.CoreCompileInputs.cache
+D:\Project\C#\Game v1\MyIntelligence\bin\Debug\MyIntelligence.exe.config
+D:\Project\C#\Game v1\MyIntelligence\bin\Debug\MyIntelligence.exe
+D:\Project\C#\Game v1\MyIntelligence\bin\Debug\MyIntelligence.pdb
+D:\Project\C#\Game v1\MyIntelligence\obj\Debug\MyIntelligence.exe
+D:\Project\C#\Game v1\MyIntelligence\obj\Debug\MyIntelligence.pdb
+D:\Project\C#\Game v1\MyIntelligence\bin\Debug\GameSetups.dll
+D:\Project\C#\Game v1\MyIntelligence\bin\Debug\GameSetups.pdb
+D:\Project\C#\Game v1\MyIntelligence\obj\Debug\MyIntelligence.csproj.CopyComplete

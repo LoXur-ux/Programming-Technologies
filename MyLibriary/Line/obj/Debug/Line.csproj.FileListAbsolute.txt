@@ -1,0 +1,6 @@
+C:\Users\danma\source\repos\MyLibriary\Line\bin\Debug\Line.dll
+C:\Users\danma\source\repos\MyLibriary\Line\bin\Debug\Line.pdb
+C:\Users\danma\source\repos\MyLibriary\Line\obj\Debug\Line.csprojAssemblyReference.cache
+C:\Users\danma\source\repos\MyLibriary\Line\obj\Debug\Line.csproj.CoreCompileInputs.cache
+C:\Users\danma\source\repos\MyLibriary\Line\obj\Debug\Line.dll
+C:\Users\danma\source\repos\MyLibriary\Line\obj\Debug\Line.pdb

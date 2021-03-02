@@ -1,0 +1,7 @@
+C:\Users\danma\source\repos\CalcV1\Determinant_4_order\bin\Debug\Determinant_4_order.exe.config
+C:\Users\danma\source\repos\CalcV1\Determinant_4_order\bin\Debug\Determinant_4_order.exe
+C:\Users\danma\source\repos\CalcV1\Determinant_4_order\bin\Debug\Determinant_4_order.pdb
+C:\Users\danma\source\repos\CalcV1\Determinant_4_order\obj\Debug\Determinant_4_order.csproj.CoreCompileInputs.cache
+C:\Users\danma\source\repos\CalcV1\Determinant_4_order\obj\Debug\Determinant_4_order.exe
+C:\Users\danma\source\repos\CalcV1\Determinant_4_order\obj\Debug\Determinant_4_order.pdb
+C:\Users\danma\source\repos\CalcV1\Determinant_4_order\obj\Debug\Determinant_4_order.csprojAssemblyReference.cache

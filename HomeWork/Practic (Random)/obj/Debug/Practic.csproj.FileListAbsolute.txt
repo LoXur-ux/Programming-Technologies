@@ -1,0 +1,15 @@
+D:\Project\C#\HomeWork\Practic\bin\Debug\Practic.exe.config
+D:\Project\C#\HomeWork\Practic\bin\Debug\Practic.exe
+D:\Project\C#\HomeWork\Practic\bin\Debug\Practic.pdb
+D:\Project\C#\HomeWork\Practic\obj\Debug\Practic.csprojAssemblyReference.cache
+D:\Project\C#\HomeWork\Practic\obj\Debug\Practic.Form1.resources
+D:\Project\C#\HomeWork\Practic\obj\Debug\Practic.Properties.Resources.resources
+D:\Project\C#\HomeWork\Practic\obj\Debug\Practic.csproj.GenerateResource.cache
+D:\Project\C#\HomeWork\Practic\obj\Debug\Practic.csproj.CoreCompileInputs.cache
+D:\Project\C#\HomeWork\Practic\obj\Debug\Practic.exe
+D:\Project\C#\HomeWork\Practic\obj\Debug\Practic.pdb
+D:\Project\C#\HomeWork\Practic\bin\Debug\OxyPlot.dll
+D:\Project\C#\HomeWork\Practic\bin\Debug\OxyPlot.WindowsForms.dll
+D:\Project\C#\HomeWork\Practic\bin\Debug\OxyPlot.xml
+D:\Project\C#\HomeWork\Practic\bin\Debug\OxyPlot.WindowsForms.xml
+D:\Project\C#\HomeWork\Practic\obj\Debug\Practic.csproj.CopyComplete

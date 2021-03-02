@@ -1,0 +1,7 @@
+C:\Users\danma\source\repos\CalcV1\Determinant_of_the_\bin\Debug\Determinant_of_the_.exe.config
+C:\Users\danma\source\repos\CalcV1\Determinant_of_the_\bin\Debug\Determinant_of_the_.exe
+C:\Users\danma\source\repos\CalcV1\Determinant_of_the_\bin\Debug\Determinant_of_the_.pdb
+C:\Users\danma\source\repos\CalcV1\Determinant_of_the_\obj\Debug\Determinant_3_order.csprojAssemblyReference.cache
+C:\Users\danma\source\repos\CalcV1\Determinant_of_the_\obj\Debug\Determinant_3_order.csproj.CoreCompileInputs.cache
+C:\Users\danma\source\repos\CalcV1\Determinant_of_the_\obj\Debug\Determinant_of_the_.exe
+C:\Users\danma\source\repos\CalcV1\Determinant_of_the_\obj\Debug\Determinant_of_the_.pdb

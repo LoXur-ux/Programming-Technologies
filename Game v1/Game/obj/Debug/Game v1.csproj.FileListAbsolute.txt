@@ -1,0 +1,10 @@
+D:\Project\C#\Game v1\Game\bin\Debug\Game.exe.config
+D:\Project\C#\Game v1\Game\bin\Debug\Game.exe
+D:\Project\C#\Game v1\Game\bin\Debug\Game.pdb
+D:\Project\C#\Game v1\Game\obj\Debug\Game v1.csprojAssemblyReference.cache
+D:\Project\C#\Game v1\Game\obj\Debug\Game v1.csproj.CoreCompileInputs.cache
+D:\Project\C#\Game v1\Game\obj\Debug\Game.exe
+D:\Project\C#\Game v1\Game\obj\Debug\Game.pdb
+D:\Project\C#\Game v1\Game\bin\Debug\GameSetups.dll
+D:\Project\C#\Game v1\Game\bin\Debug\GameSetups.pdb
+D:\Project\C#\Game v1\Game\obj\Debug\Game v1.csproj.CopyComplete

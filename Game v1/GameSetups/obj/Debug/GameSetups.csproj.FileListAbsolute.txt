@@ -1,0 +1,6 @@
+D:\Project\C#\Game v1\GameSetups\bin\Debug\GameSetups.dll
+D:\Project\C#\Game v1\GameSetups\bin\Debug\GameSetups.pdb
+D:\Project\C#\Game v1\GameSetups\obj\Debug\GameSetups.csproj.CoreCompileInputs.cache
+D:\Project\C#\Game v1\GameSetups\obj\Debug\GameSetups.dll
+D:\Project\C#\Game v1\GameSetups\obj\Debug\GameSetups.pdb
+D:\Project\C#\Game v1\GameSetups\obj\Debug\GameSetups.csprojAssemblyReference.cache

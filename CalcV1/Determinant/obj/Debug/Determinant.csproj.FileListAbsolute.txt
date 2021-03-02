@@ -1,0 +1,9 @@
+C:\Users\danma\source\repos\CalcV1\Determinant\bin\Debug\Determinant.exe.config
+C:\Users\danma\source\repos\CalcV1\Determinant\bin\Debug\Determinant.exe
+C:\Users\danma\source\repos\CalcV1\Determinant\bin\Debug\Determinant.pdb
+C:\Users\danma\source\repos\CalcV1\Determinant\obj\Debug\Determinant.csprojAssemblyReference.cache
+C:\Users\danma\source\repos\CalcV1\Determinant\obj\Debug\Determinant.csproj.CoreCompileInputs.cache
+C:\Users\danma\source\repos\CalcV1\Determinant\obj\Debug\Determinant.exe
+C:\Users\danma\source\repos\CalcV1\Determinant\obj\Debug\Determinant.pdb
+C:\Users\danma\source\repos\CalcV1\Determinant\bin\Debug\MyLine.dll
+C:\Users\danma\source\repos\CalcV1\Determinant\obj\Debug\Determinant.csproj.CopyComplete
