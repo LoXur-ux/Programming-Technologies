@@ -555,6 +555,11 @@
             this.numericUpDown7.Name = "numericUpDown7";
             this.numericUpDown7.Size = new System.Drawing.Size(72, 20);
             this.numericUpDown7.TabIndex = 8;
+            this.numericUpDown7.Value = new decimal(new int[] {
+            5,
+            0,
+            0,
+            0});
             // 
             // numericUpDown6
             // 
@@ -562,6 +567,11 @@
             this.numericUpDown6.Name = "numericUpDown6";
             this.numericUpDown6.Size = new System.Drawing.Size(72, 20);
             this.numericUpDown6.TabIndex = 7;
+            this.numericUpDown6.Value = new decimal(new int[] {
+            6,
+            0,
+            0,
+            0});
             // 
             // label16
             // 

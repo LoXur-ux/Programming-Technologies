@@ -1,11 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Prog1
@@ -161,14 +155,14 @@ namespace Prog1
 
             // Проверка на нули выше глав. диагонали.
             for (int x = 0; x < n; x++)
-                for (int y = 0; y < m && y > x; y++)
+                for (int y = 0; y < m; y++)
                     if (ptr[x, y] == 0 && y > x)
                     {
                         k++;
                         kickList.Add(x);
                         break;
                     }
-            
+
             label13.Text = $"Удалено {k} строк:\n";
             foreach (int i in kickList)
                 label13.Text += $"{i + 1}, ";
@@ -177,30 +171,32 @@ namespace Prog1
             dataGridView3.ColumnCount = n;
 
             int kickRowValue = 0;
-            for (int i = 0; i < n; i++)
+            int f = n;
+            bool again = true;
+            bool lastValue = false;
+            for (int i = 0; i < f; i++)
             {
                 if (KickCheck(kickList, i))
                 {
                     kickRowValue++;
                     continue;
                 }
-                if (i - kickRowValue == 2)
+                dataGridView3.Rows.Add();
+                if ((i - kickRowValue == 2) && again)
                 {
+                    again = false;
                     for (int j = 0; j < m; j++)
-                    {
-                        dataGridView3.Rows.Add();
                         dataGridView3.Rows[2].Cells[j].Value = Convert.ToInt32(dataGridView3.Rows[0].Cells[j].Value) - Convert.ToInt32(dataGridView3.Rows[1].Cells[j].Value);
-                    }
-                        
-                    kickRowValue++;
+                    //kickRowValue++;
+                    f++;
+                    lastValue = true;
                 }
                 else
                     for (int j = 0; j < m; j++)
-                    {
-                        dataGridView3.Rows.Add();
-                        dataGridView3.Rows[i].Cells[j].Value = ptr[i - kickRowValue, j];
-                    }
-                        
+                        if (!lastValue && f <= n)
+                            dataGridView3.Rows[i - kickRowValue].Cells[j].Value = ptr[i, j];
+                        else
+                            dataGridView3.Rows[i - kickRowValue].Cells[j].Value = ptr[i - 1, j];
             }
         }
 
@@ -213,7 +209,7 @@ namespace Prog1
             button2.Enabled = true;
             label13.Text = "";
         }
-        
+
         // Проверка на совпадение с вылетевшими строчками.
         private bool KickCheck(List<int> list, int x)
         {
@@ -222,6 +218,5 @@ namespace Prog1
                     return true;
             return false;
         }
-
     }
 }

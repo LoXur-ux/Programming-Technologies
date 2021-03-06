@@ -1,0 +1,12 @@
+C:\Users\danma\source\repos\ConsoleCalc\SolvingLibriary\bin\Debug\SolvingLibriary.dll
+C:\Users\danma\source\repos\ConsoleCalc\SolvingLibriary\bin\Debug\SolvingLibriary.pdb
+C:\Users\danma\source\repos\ConsoleCalc\SolvingLibriary\obj\Debug\SolvingLibriary.csprojAssemblyReference.cache
+C:\Users\danma\source\repos\ConsoleCalc\SolvingLibriary\obj\Debug\SolvingLibriary.csproj.CoreCompileInputs.cache
+C:\Users\danma\source\repos\ConsoleCalc\SolvingLibriary\obj\Debug\SolvingLibriary.dll
+C:\Users\danma\source\repos\ConsoleCalc\SolvingLibriary\obj\Debug\SolvingLibriary.pdb
+E:\Project\C#\ConsoleCalc\SolvingLibriary\bin\Debug\SolvingLibriary.dll
+E:\Project\C#\ConsoleCalc\SolvingLibriary\bin\Debug\SolvingLibriary.pdb
+E:\Project\C#\ConsoleCalc\SolvingLibriary\obj\Debug\SolvingLibriary.csprojAssemblyReference.cache
+E:\Project\C#\ConsoleCalc\SolvingLibriary\obj\Debug\SolvingLibriary.csproj.CoreCompileInputs.cache
+E:\Project\C#\ConsoleCalc\SolvingLibriary\obj\Debug\SolvingLibriary.dll
+E:\Project\C#\ConsoleCalc\SolvingLibriary\obj\Debug\SolvingLibriary.pdb
