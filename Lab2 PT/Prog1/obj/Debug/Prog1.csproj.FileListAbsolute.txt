@@ -1,0 +1,9 @@
+D:\Lab1 Технологии программрования\Prog1\Prog1\bin\Debug\Prog1.exe.config
+D:\Lab1 Технологии программрования\Prog1\Prog1\obj\Debug\Prog1.csprojResolveAssemblyReference.cache
+D:\Lab1 Технологии программрования\Prog1\Prog1\obj\Debug\Prog1.Form1.resources
+D:\Lab1 Технологии программрования\Prog1\Prog1\obj\Debug\Prog1.Properties.Resources.resources
+D:\Lab1 Технологии программрования\Prog1\Prog1\obj\Debug\Prog1.csproj.GenerateResource.Cache
+D:\Lab1 Технологии программрования\Prog1\Prog1\bin\Debug\Prog1.exe
+D:\Lab1 Технологии программрования\Prog1\Prog1\bin\Debug\Prog1.pdb
+D:\Lab1 Технологии программрования\Prog1\Prog1\obj\Debug\Prog1.exe
+D:\Lab1 Технологии программрования\Prog1\Prog1\obj\Debug\Prog1.pdb

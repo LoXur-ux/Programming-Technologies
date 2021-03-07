@@ -1,0 +1,10 @@
+E:\Project\C#\Lab2 PT\Prog1\bin\Debug\Prog1.exe.config
+E:\Project\C#\Lab2 PT\Prog1\bin\Debug\Prog1.exe
+E:\Project\C#\Lab2 PT\Prog1\bin\Debug\Prog1.pdb
+E:\Project\C#\Lab2 PT\Prog1\obj\Debug\Lab2.csprojAssemblyReference.cache
+E:\Project\C#\Lab2 PT\Prog1\obj\Debug\Prog1.Form1.resources
+E:\Project\C#\Lab2 PT\Prog1\obj\Debug\Prog1.Properties.Resources.resources
+E:\Project\C#\Lab2 PT\Prog1\obj\Debug\Lab2.csproj.GenerateResource.cache
+E:\Project\C#\Lab2 PT\Prog1\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+E:\Project\C#\Lab2 PT\Prog1\obj\Debug\Prog1.exe
+E:\Project\C#\Lab2 PT\Prog1\obj\Debug\Prog1.pdb
